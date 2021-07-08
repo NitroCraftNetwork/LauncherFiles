@@ -1,0 +1,1382 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Enmet-1.12.2",
+      "name": "Emment Zombie Land",
+      "description": "The World has fallen into the zombie apocalypse and now you and hundred of players, must survive!",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "rp.enment.net",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4464387,
+            "MD5": "02fcc447bb8938e5214292e4d36ec949",
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2855",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 10873,
+                "MD5": "5d114618e561d76e0f692c2d69dcb784",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/versions/1.12.2-forge-14.23.5.2855/1.12.2-forge-14.23.5.2855.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.spellcraftgaming.rpghud.main:rpghud:3.8.1@jar",
+          "name": "RPG-Hud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200491,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/[1.12][Forge]+RPG-HUD-3.8.1.jar",
+            "MD5": "325a6b7779ad2851f6c909eebfb5329e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vazkii.ambience:ambience:1.1-10@jar",
+          "name": "Ambience",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168724,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Ambience+1.1-10.jar",
+            "MD5": "f85d0ed9b5198b536258f2a13aa5a65c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vazkii.arl:autoreglib:1.3-32@jar",
+          "name": "AutoRegLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108306,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/AutoRegLib-1.3-32.jar",
+            "MD5": "4e5a4b881c27b1e4502a9a16c00882ad"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.ichun.mods:backtools:1.12.2-7.0.1@jar",
+          "name": "BackTools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18879,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/BackTools-1.12.2-7.0.1.jar",
+            "MD5": "a075276ecae1692fb7a9b09f6e5222a5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
+          "name": "BetterFps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155196,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/BetterFps-1.4.8.jar",
+            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "jds.bibliocraft:bibliocraft:2.4.5@jar",
+          "name": "BiblioCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5122856,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/BiblioCraft[v2.4.5][MC1.12.2].jar",
+            "MD5": "5b9f1a1543a1fdf687fe4761e3d63ed4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "c4.conarm:conarm:1.12.2-1.2.5.10@jar",
+          "name": "Construct's Armory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 894824,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/conarm-1.12.2-1.2.5.10.jar",
+            "MD5": "b5bf1c931ac479b7678bea8b8624ac9f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91121,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "drzhark.customspawner:CustomSpawner:3.11.4@jar",
+          "name": "DrZhark's CustomSpawner",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 722270,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/CustomMobSpawner-3.11.5.jar",
+            "MD5": "fec50567081c942dfab330a60aac695a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9911871,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/CustomNPCs_1.12.2-(05Jul20).jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.dawnoftimebuilder:dawnoftimebuilder:1.0.6@jar",
+          "name": "Dawn Of Time : Builder Edition",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1324905,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/dawnoftime_builder_edition-1.0.7.jar",
+            "MD5": "33553ba27f0286fbfaa58fd546c04499"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.mia:props:2.6.2_1.12.2@jar",
+          "name": "Decocraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16304269,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Decocraft-2.6.2_1.12.2.jar",
+            "MD5": "f1af752dd335560a3429242e361d15a4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.dark_roleplay.core:drpcore:1.12.2-0.4.7@jar",
+          "name": "Dark Roleplay Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1075472,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/drpcore-1.12.2-0.4.8.jar",
+            "MD5": "5425b06103cbce9ff1abddb6ad8ea5c9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.dark_roleplay.medieval:drpmedieval:1.12.2-0.3.6@jar",
+          "name": "Dark Roleplay Medieval",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5575065,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/drpmedieval-1.12.2-0.3.6.jar",
+            "MD5": "d65b3f37ed9a9cec5d607ccd8ed67a7c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.1.0@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15929762,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.blay09.mods:eiramoticons:6.4.0@jar",
+          "name": "EiraMoticons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97109,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/EiraMoticons_1.12.2-6.4.0.jar",
+            "MD5": "b33c12f206df99822ccef939a2b59264"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "electroblob.wizardry:ebwizardry:4.3.4@jar",
+          "name": "Electroblob's Wizardry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10881050,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
+            "MD5": "a6cf1f36c230fbed2f4ef5b2db72d87a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "maninthehouse.epicfight.main:epicfight:2.0.0@jar",
+          "name": "Epic Fight Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2365209,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/EpicFightMod-1.12.2-2.2.0.jar",
+            "MD5": "1663548bf13b30753772ab337be298ac"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.shadowfacts:forgelin:1.8.4@jar",
+          "name": "Shadowfacts' Forgelin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6278399,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Forgelin-1.8.4.jar",
+            "MD5": "2da79fce72265eab0541e565636d389d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.ichun.mods:hats:1.12.2-7.0.2@jar",
+          "name": "Hats",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299884,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Hats-1.12.2-7.0.2.jar",
+            "MD5": "7ebaabf25a086c5ab85eba8ed9f3b704"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.deflatedpickle:heartdrops:1.12.2-3.0.0.4@jar",
+          "name": "HeartDrops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 65370,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/heartdrops-1.12.2-3.0.0.4.jar",
+            "MD5": "91ef8d7dafd5c9a573fe56ed01c995f9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:hungerstrike:1.12-1.0.8@jar",
+          "name": "Hunger Strike",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33587,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/HungerStrike-1.12-1.0.8.jar",
+            "MD5": "c0a21f3db3747e4496772c7ba1891588"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.ichun.mods:ichunutil:1.12.2-7.2.0@jar",
+          "name": "IChunUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 581223,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/iChunUtil-1.12.2-7.2.0.jar",
+            "MD5": "3a16167d220e3523b5b0586349cab6be"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ru.poopycoders:improvedbackpacks:1.12.2-1.4.0.0@jar",
+          "name": "Improved Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 150076,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/ImprovedBackpacks-1.12.2-1.4.0.0.jar",
+            "MD5": "a4686fd06b61a2211f98a984628fbf04"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "it.jdijack:jjraces:1.0.14@jar",
+          "name": "JJ Races",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 902470,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/JJ+Races+1.12-1.12.2-v1.0.14.jar",
+            "MD5": "bdcd0a823986154afcda3976cad813ed"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.5.8@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1934386,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/journeymap-1.12.2-5.5.8.jar",
+            "MD5": "927074f3947d29fe3f25a9b8932664f6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "levelup2:levelup2:1.5.8@jar",
+          "name": "Level Up! Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1083920,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/levelup2-1.5.8.jar",
+            "MD5": "77aee56cc17f95fb1a047127d3a1a2ab"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mal.lootbags:lootbags:2.5.8.5@jar",
+          "name": "Loot Bags",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 279242,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/LootBags-1.12.2-2.5.8.5.jar",
+            "MD5": "251da8ab30737ef321e2ee2c50a3782e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.12.2-2.0.7.2@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80300509,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/lycanitesmobs-1.12.2-2.0.7.2.jar",
+            "MD5": "c7736c7b47d88b98abb27c1fb22b164b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
+          "name": "MalisisCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1939783,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/malisiscore-1.12.2-6.5.1.jar",
+            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
+          "name": "MalisisDoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1741669,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/malisisdoors-1.12.2-7.3.0.jar",
+            "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "slimeknights.mantle:mantle:1.3.3.55@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 843486,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Mantle-1.12-1.3.3.55.jar",
+            "MD5": "1026f5f8d3c4997831decd9023ca65a6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "drzhark.mocreatures:mocreatures:12.0.5@jar",
+          "name": "DrZhark's Mo'Creatures Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22440403,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Mo-Creatures-Mod-1.12.2.jar",
+            "MD5": "b02c58883f3d2956017639c6000d071e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.kreezcraft:mobsunscreen:1.12.2-2.0.2@jar",
+          "name": "Mobsunscreen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6837,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/mobsunscreen-1.12.2-2.0.2.jar",
+            "MD5": "b59d35a06917460e6948c60ea5d6a0ae"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:nashorn:0.0.0@jar",
+          "name": "Nashorn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2022531,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/nashorn.jar",
+            "MD5": "764ffae27a54c23e265ac7f41fdbfc55"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2387431,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5_MOD.jar",
+            "MD5": "ead0decc5d397a0c122546fd9edb1e5b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib Support Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.mia.craftstudio.minecraft:ptrmodellib:1.0.4@jar",
+          "name": "Ptrmodellib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169483,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/PTRLib-1.0.4.jar",
+            "MD5": "7cdde85216395abe430a7ff185650370"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "subaraki.rpginventory.mod:rpginventory:1.12-5.3.0.0@jar",
+          "name": "Rpg Inventory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129862,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/rpginventory-1.12-5.3.0.0.jar",
+            "MD5": "5aa6cca4b3dacf47ae2b3e1a5e23f85d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.teamderpy:shouldersurfing:1.12.2-1.15.1@jar",
+          "name": "Shoulder Surfing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145960,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/ShoulderSurfing-1.12.2-1.15.1.jar",
+            "MD5": "6a31da821753117bb481f016c42914e7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "lib:subcommonlib:sublib-1.12-1.2.0.1@jar",
+          "name": "Subaraki's Common Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40559,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/subcommonlib-sublib-1.12-1.2.0.1.jar",
+            "MD5": "7360b6322a50d919d63f12e97b2f875e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "slimeknights.tconstruct:tconstruct:1.12.2-2.13.0.183@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4023372,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/TConstruct-1.12.2-2.13.0.183.jar",
+            "MD5": "710d64342d41042b7d6ced891448e727"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "toughasnails.core:toughasnails:3.1.0@jar",
+          "name": "Tough As Nails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 354871,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/ToughAsNails-1.12.2-3.1.0.139-universal.jar",
+            "MD5": "f73d052584ec13975bfe7a7f8354f118"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "atheria.fewizz:trade:1.0.4@jar",
+          "name": "Trade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 170312,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Trade-Mod-1.12.2.jar",
+            "MD5": "c25ea232abf68fe966da012841c00558"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "noppes.vc:variedcommodities:1.0@jar",
+          "name": "Varied Commodities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1565668,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/VariedCommodities_1.12.223sep18snapshot.jar",
+            "MD5": "17c2f164aab76acdb5a46851ee44e3a4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.gliby.voicechat:gvc:1.2.5@jar",
+          "name": "Gliby's Voice Chat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423682,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Voice+Chat+Reloaded-1.2.5.jar",
+            "MD5": "13344fa9ab436f944f354fb8687306d8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:4.1.0@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178994,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Waystones_1.12.2-4.1.0.jar",
+            "MD5": "5159122949ffb79b80a341135673e8f8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;3978-1e3af45@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1479104,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+            "MD5": "6bbc8250b88fd60b1bc0d6103019e820"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ambience.properties",
+          "name": "ambience.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1501,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/ambience.properties",
+            "MD5": "dddb12ef9673fed94c699f571859fee1",
+            "path": "ambience_music/ambience.properties"
+          }
+        },
+        {
+          "id": "Boss.mp3",
+          "name": "Boss.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3584972,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/Boss.mp3",
+            "MD5": "79cdfbf656b7566e517ade3b53171264",
+            "path": "ambience_music/music/Boss.mp3"
+          }
+        },
+        {
+          "id": "DeepUnderground.mp3",
+          "name": "DeepUnderground.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 6306305,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/DeepUnderground.mp3",
+            "MD5": "4ce9989ea47f5138958de78b35bbdcb8",
+            "path": "ambience_music/music/DeepUnderground.mp3"
+          }
+        },
+        {
+          "id": "MenuTheme.mp3",
+          "name": "MenuTheme.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3931446,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/MenuTheme.mp3",
+            "MD5": "1551a660a57435fd2800456291f7dd61",
+            "path": "ambience_music/music/MenuTheme.mp3"
+          }
+        },
+        {
+          "id": "MesaBiomeTheme.mp3",
+          "name": "MesaBiomeTheme.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 4434266,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/MesaBiomeTheme.mp3",
+            "MD5": "987fb67c7439e91cb7021b73b4bfd48d",
+            "path": "ambience_music/music/MesaBiomeTheme.mp3"
+          }
+        },
+        {
+          "id": "battle.mp3",
+          "name": "battle.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 17913823,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/battle.mp3",
+            "MD5": "7656ca9f41494f85d8f7c78502e4ca03",
+            "path": "ambience_music/music/battle.mp3"
+          }
+        },
+        {
+          "id": "beach.mp3",
+          "name": "beach.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 17917146,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/beach.mp3",
+            "MD5": "19037a84106eae755b58862e089bfa0a",
+            "path": "ambience_music/music/beach.mp3"
+          }
+        },
+        {
+          "id": "cavern.mp3",
+          "name": "cavern.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 2970155,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/cavern.mp3",
+            "MD5": "7e86c1a3f3f69bf98f014141d3e41f6c",
+            "path": "ambience_music/music/cavern.mp3"
+          }
+        },
+        {
+          "id": "desert.mp3",
+          "name": "desert.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 6229551,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/desert.mp3",
+            "MD5": "a6ea40a98afd9561da66691e135acf12",
+            "path": "ambience_music/music/desert.mp3"
+          }
+        },
+        {
+          "id": "ender.mp3",
+          "name": "ender.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 6306305,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/ender.mp3",
+            "MD5": "4ce9989ea47f5138958de78b35bbdcb8",
+            "path": "ambience_music/music/ender.mp3"
+          }
+        },
+        {
+          "id": "field.mp3",
+          "name": "field.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3896352,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/field.mp3",
+            "MD5": "b8a2575ba3e04d269552d3b16af25355",
+            "path": "ambience_music/music/field.mp3"
+          }
+        },
+        {
+          "id": "fishing.mp3",
+          "name": "fishing.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3020310,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/fishing.mp3",
+            "MD5": "3f9acd54017e9f53dcd637195792dfac",
+            "path": "ambience_music/music/fishing.mp3"
+          }
+        },
+        {
+          "id": "forest.mp3",
+          "name": "forest.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 2508247,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/forest.mp3",
+            "MD5": "387df463eefbf7b328b41a09cc49cea4",
+            "path": "ambience_music/music/forest.mp3"
+          }
+        },
+        {
+          "id": "ice.mp3",
+          "name": "ice.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3896352,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/ice.mp3",
+            "MD5": "b8a2575ba3e04d269552d3b16af25355",
+            "path": "ambience_music/music/ice.mp3"
+          }
+        },
+        {
+          "id": "mountain.mp3",
+          "name": "mountain.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 4568430,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/mountain.mp3",
+            "MD5": "9bfa4fec26bc885d67604f09f3e1d845",
+            "path": "ambience_music/music/mountain.mp3"
+          }
+        },
+        {
+          "id": "nether.mp3",
+          "name": "nether.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 4815444,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/nether.mp3",
+            "MD5": "0d9fd47b52036dec412dfa9dcc152cfc",
+            "path": "ambience_music/music/nether.mp3"
+          }
+        },
+        {
+          "id": "night.mp3",
+          "name": "night.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3363454,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/night.mp3",
+            "MD5": "a0eb62bd356eba77b60beef994e3dcac",
+            "path": "ambience_music/music/night.mp3"
+          }
+        },
+        {
+          "id": "ocean.mp3",
+          "name": "ocean.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3844341,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/ocean.mp3",
+            "MD5": "24790db1ed8e11d0e27eb9148fc8ff7f",
+            "path": "ambience_music/music/ocean.mp3"
+          }
+        },
+        {
+          "id": "river.mp3",
+          "name": "river.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 5494210,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/river.mp3",
+            "MD5": "2bb629d87489a909a9a23892cca5216f",
+            "path": "ambience_music/music/river.mp3"
+          }
+        },
+        {
+          "id": "silent.mp3",
+          "name": "silent.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 236315,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/silent.mp3",
+            "MD5": "5b617119348c802bed2d3e3066c4e204",
+            "path": "ambience_music/music/silent.mp3"
+          }
+        },
+        {
+          "id": "storm.mp3",
+          "name": "storm.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 1119290,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/storm.mp3",
+            "MD5": "784a29f1b76984f8cc8b5ff4d1f674ea",
+            "path": "ambience_music/music/storm.mp3"
+          }
+        },
+        {
+          "id": "swampland.mp3",
+          "name": "swampland.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 2026499,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/swampland.mp3",
+            "MD5": "7f0867670549bd221b9cbbed9364c489",
+            "path": "ambience_music/music/swampland.mp3"
+          }
+        },
+        {
+          "id": "underwater.mp3",
+          "name": "underwater.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 3288639,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/underwater.mp3",
+            "MD5": "57fe78378c42d2c64e246428f7b2bbfd",
+            "path": "ambience_music/music/underwater.mp3"
+          }
+        },
+        {
+          "id": "village.mp3",
+          "name": "village.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 1140070,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/village.mp3",
+            "MD5": "49e19b24977bab9adc27a15a5534c2bf",
+            "path": "ambience_music/music/village.mp3"
+          }
+        },
+        {
+          "id": "wood.mp3",
+          "name": "wood.mp3",
+          "type": "File",
+          "artifact": {
+            "size": 1976028,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/wood.mp3",
+            "MD5": "e276b9aba31cce3ff46f9afc5858ec84",
+            "path": "ambience_music/music/wood.mp3"
+          }
+        },
+        {
+          "id": "CustomNpcs.cfg",
+          "name": "CustomNpcs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1519,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/config/CustomNpcs.cfg",
+            "MD5": "ea9ddf90e3a9673c39c68770aeff7bc4",
+            "path": "config/CustomNpcs.cfg"
+          }
+        },
+        {
+          "id": "quark.cfg",
+          "name": "quark.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 103824,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/config/quark.cfg",
+            "MD5": "64bec79e19d80d5ffef16f91e4093712",
+            "path": "config/quark.cfg"
+          }
+        },
+        {
+          "id": "sounds.json",
+          "name": "sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 4,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/customnpcs/assets/customnpcs/sounds.json",
+            "MD5": "22e67cc3ae278cb47bca0058382d3330",
+            "path": "customnpcs/assets/customnpcs/sounds.json"
+          }
+        },
+        {
+          "id": "Ellis Brown.json",
+          "name": "Ellis Brown.json",
+          "type": "File",
+          "artifact": {
+            "size": 14223,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/customnpcs/clones/1/Ellis%20Brown.json",
+            "MD5": "165649ad6c0296a4d6c656fe3757f856",
+            "path": "customnpcs/clones/1/Ellis Brown.json"
+          }
+        },
+        {
+          "id": "drpcmblueprints-1.12.2-1.2.3.jar",
+          "name": "drpcmblueprints-1.12.2-1.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 81126,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar",
+            "MD5": "56663064526ccd1f66ec16505f89c60c",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar"
+          }
+        },
+        {
+          "id": "drpcmblueprints-1.12.2-1.2.3.jar.meta",
+          "name": "drpcmblueprints-1.12.2-1.2.3.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 7804,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar.meta",
+            "MD5": "65d39dde53f04f91cbb82ef184a11774",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar.meta"
+          }
+        },
+        {
+          "id": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+          "name": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+          "type": "File",
+          "artifact": {
+            "size": 266596,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+            "MD5": "40196cabb4eb530eb1656230dc69bee1",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar"
+          }
+        },
+        {
+          "id": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+          "name": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 7118,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+            "MD5": "1c4f92a29d9f1a022e19ecb739dad102",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/maven-metadata.json",
+            "MD5": "b2d10085e8ca5b0affe2ab176fb5e4e1",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+          "name": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+          "type": "File",
+          "artifact": {
+            "size": 181395,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+            "MD5": "35dcd1ad1633a069d2ceee623f2198dc",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar"
+          }
+        },
+        {
+          "id": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+          "name": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 4247,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+            "MD5": "3f0d769ba71cb075c3c7f51b93a908bf",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/maven-metadata.json",
+            "MD5": "078bd749beca1d41e243d162fe886b0d",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+          "name": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+          "type": "File",
+          "artifact": {
+            "size": 94477,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+            "MD5": "637cf12455851bf324435c5b261d272f",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar"
+          }
+        },
+        {
+          "id": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+          "name": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 11653,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+            "MD5": "8a96d112d2b634869af618f322cdaa26",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/maven-metadata.json",
+            "MD5": "3e2092395897f258a9f2a78b4ab7372d",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+          "name": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+          "type": "File",
+          "artifact": {
+            "size": 166706,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+            "MD5": "a21d5da3da9e680ee03bd0b827752a7c",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+          "name": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 17743,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+            "MD5": "2bdeedbc6d7e686c96beb918dfbeb9a0",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/maven-metadata.json",
+            "MD5": "8e26fc7ed9b054dc4e2c6a57f9a3c787",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+          "name": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+          "type": "File",
+          "artifact": {
+            "size": 172662,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+            "MD5": "1ce46414d1a439fed61cb8f0a1ad7f72",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+          "name": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 18046,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+            "MD5": "7f5a3de1ed33cd5e0e492dbcbd84801a",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/maven-metadata.json",
+            "MD5": "d8492c72ed2961f98e41b759942c1dbb",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "Tissous Zombie Pack 1.12.2.zip",
+          "name": "Tissous Zombie Pack 1.12.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 12380332,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/resourcepacks/Tissous%20Zombie%20Pack%201.12.2.zip",
+            "MD5": "9f1742099c1f118c9bc04f0d8bee8d7f",
+            "path": "resourcepacks/Tissous Zombie Pack 1.12.2.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
