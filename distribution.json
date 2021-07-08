@@ -9674,6 +9674,17 @@
           }
         },
         {
+          "id": "quark.cfg",
+          "name": "quark.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 103823,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/config/quark.cfg",
+            "MD5": "b0f70b0f445b7ab9389cb842c6b4805b",
+            "path": "config/quark.cfg"
+          }
+        },
+        {
           "id": "armor.json",
           "name": "armor.json",
           "type": "File",
