@@ -236,6 +236,633 @@
           ]
         },
         {
+          "id": "Flans-Simple-Parts-Pack-1.12.2.jar",
+          "name": "Flans-Simple-Parts-Pack-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 234016,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/Flan/Flans-Simple-Parts-Pack-1.12.2.jar",
+            "MD5": "9cd6b1cb9f70d08663c690c0da718bad",
+            "path": "Flan/Flans-Simple-Parts-Pack-1.12.2.jar"
+          }
+        },
+        {
+          "id": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "name": "Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar",
+            "MD5": "c7fbaf1f1bcdfab62016e61f51a8d347",
+            "path": "Flan/Modern+Warfare-Content+Pack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
+          "id": "Zombie-Content+Pack-1.12.2-5.8.5.jar",
+          "name": "Zombie-Content+Pack-1.12.2-5.8.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 490035,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/Flan/Zombie-Content+Pack-1.12.2-5.8.5.jar",
+            "MD5": "9a86b0205e85e409a0107a52f0a918f7",
+            "path": "Flan/Zombie-Content+Pack-1.12.2-5.8.5.jar"
+          }
+        },
+        {
+          "id": "Visited Links",
+          "name": "Visited Links",
+          "type": "File",
+          "artifact": {
+            "size": 131072,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFCache/Visited%20Links",
+            "MD5": "fe6ed4675e4f04446c1930a9576a2e17",
+            "path": "MCEFCache/Visited Links"
+          }
+        },
+        {
+          "id": "am.pak",
+          "name": "am.pak",
+          "type": "File",
+          "artifact": {
+            "size": 77527,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/am.pak",
+            "MD5": "366ca1afd6ade6117ccdfd5c9b53ef56",
+            "path": "MCEFLocales/am.pak"
+          }
+        },
+        {
+          "id": "ar.pak",
+          "name": "ar.pak",
+          "type": "File",
+          "artifact": {
+            "size": 76375,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ar.pak",
+            "MD5": "a12b71227c8bdfc09364c87e9e9493fd",
+            "path": "MCEFLocales/ar.pak"
+          }
+        },
+        {
+          "id": "bg.pak",
+          "name": "bg.pak",
+          "type": "File",
+          "artifact": {
+            "size": 86110,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/bg.pak",
+            "MD5": "80d9eb13c8b609d10887b9c50f5f3d90",
+            "path": "MCEFLocales/bg.pak"
+          }
+        },
+        {
+          "id": "bn.pak",
+          "name": "bn.pak",
+          "type": "File",
+          "artifact": {
+            "size": 114883,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/bn.pak",
+            "MD5": "ce0398688503b557c69b5a1bfc51f1ea",
+            "path": "MCEFLocales/bn.pak"
+          }
+        },
+        {
+          "id": "ca.pak",
+          "name": "ca.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55675,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ca.pak",
+            "MD5": "17a4b66c684946da95302e2355e0a45f",
+            "path": "MCEFLocales/ca.pak"
+          }
+        },
+        {
+          "id": "cs.pak",
+          "name": "cs.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55671,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/cs.pak",
+            "MD5": "e9d67629fa78675c3598e6ec093b31ad",
+            "path": "MCEFLocales/cs.pak"
+          }
+        },
+        {
+          "id": "da.pak",
+          "name": "da.pak",
+          "type": "File",
+          "artifact": {
+            "size": 51068,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/da.pak",
+            "MD5": "036c62e4c4ba06266e6d78030de673a7",
+            "path": "MCEFLocales/da.pak"
+          }
+        },
+        {
+          "id": "de.pak",
+          "name": "de.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55396,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/de.pak",
+            "MD5": "1ab4988dd0a303a2e2435cf9327275e5",
+            "path": "MCEFLocales/de.pak"
+          }
+        },
+        {
+          "id": "el.pak",
+          "name": "el.pak",
+          "type": "File",
+          "artifact": {
+            "size": 96384,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/el.pak",
+            "MD5": "9ad4115ead70f60e88a222dee2b7e1bb",
+            "path": "MCEFLocales/el.pak"
+          }
+        },
+        {
+          "id": "en-GB.pak",
+          "name": "en-GB.pak",
+          "type": "File",
+          "artifact": {
+            "size": 46091,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/en-GB.pak",
+            "MD5": "c8e9a6042a574c987cfcdfa87a7e8af7",
+            "path": "MCEFLocales/en-GB.pak"
+          }
+        },
+        {
+          "id": "en-US.pak",
+          "name": "en-US.pak",
+          "type": "File",
+          "artifact": {
+            "size": 46171,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/en-US.pak",
+            "MD5": "0442be6aedac03dcad044deabf10f92a",
+            "path": "MCEFLocales/en-US.pak"
+          }
+        },
+        {
+          "id": "es-419.pak",
+          "name": "es-419.pak",
+          "type": "File",
+          "artifact": {
+            "size": 53969,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/es-419.pak",
+            "MD5": "f0618a42cc0002fdee00525c92ca9bbd",
+            "path": "MCEFLocales/es-419.pak"
+          }
+        },
+        {
+          "id": "es.pak",
+          "name": "es.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55938,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/es.pak",
+            "MD5": "53af0ea71363b05cb32a127d0a122f1e",
+            "path": "MCEFLocales/es.pak"
+          }
+        },
+        {
+          "id": "et.pak",
+          "name": "et.pak",
+          "type": "File",
+          "artifact": {
+            "size": 48380,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/et.pak",
+            "MD5": "1b53b8cc0a47f101776da4a8cf942579",
+            "path": "MCEFLocales/et.pak"
+          }
+        },
+        {
+          "id": "fa.pak",
+          "name": "fa.pak",
+          "type": "File",
+          "artifact": {
+            "size": 75548,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/fa.pak",
+            "MD5": "f742fc232dd947e73d8058467f6dd2e2",
+            "path": "MCEFLocales/fa.pak"
+          }
+        },
+        {
+          "id": "fi.pak",
+          "name": "fi.pak",
+          "type": "File",
+          "artifact": {
+            "size": 50631,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/fi.pak",
+            "MD5": "9044778555625987c67d6a5a48c60221",
+            "path": "MCEFLocales/fi.pak"
+          }
+        },
+        {
+          "id": "fil.pak",
+          "name": "fil.pak",
+          "type": "File",
+          "artifact": {
+            "size": 56390,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/fil.pak",
+            "MD5": "8ca2b07fa4fd4c325972fa615e4582f0",
+            "path": "MCEFLocales/fil.pak"
+          }
+        },
+        {
+          "id": "fr.pak",
+          "name": "fr.pak",
+          "type": "File",
+          "artifact": {
+            "size": 58923,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/fr.pak",
+            "MD5": "780799c8fe9cebfa8c3e18aa01737459",
+            "path": "MCEFLocales/fr.pak"
+          }
+        },
+        {
+          "id": "gu.pak",
+          "name": "gu.pak",
+          "type": "File",
+          "artifact": {
+            "size": 107875,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/gu.pak",
+            "MD5": "b71cd3c869a2f32e2ca127b9409513cd",
+            "path": "MCEFLocales/gu.pak"
+          }
+        },
+        {
+          "id": "he.pak",
+          "name": "he.pak",
+          "type": "File",
+          "artifact": {
+            "size": 63544,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/he.pak",
+            "MD5": "a7ad3f1e4a217a1becc469447215ad96",
+            "path": "MCEFLocales/he.pak"
+          }
+        },
+        {
+          "id": "hi.pak",
+          "name": "hi.pak",
+          "type": "File",
+          "artifact": {
+            "size": 111058,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/hi.pak",
+            "MD5": "c743ab02432ac637159f6b7699c2ad27",
+            "path": "MCEFLocales/hi.pak"
+          }
+        },
+        {
+          "id": "hr.pak",
+          "name": "hr.pak",
+          "type": "File",
+          "artifact": {
+            "size": 52100,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/hr.pak",
+            "MD5": "4543247f96e74821b86d0603106376ed",
+            "path": "MCEFLocales/hr.pak"
+          }
+        },
+        {
+          "id": "hu.pak",
+          "name": "hu.pak",
+          "type": "File",
+          "artifact": {
+            "size": 56162,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/hu.pak",
+            "MD5": "4672ce130ee0aa3a3c0499cea8671c8a",
+            "path": "MCEFLocales/hu.pak"
+          }
+        },
+        {
+          "id": "id.pak",
+          "name": "id.pak",
+          "type": "File",
+          "artifact": {
+            "size": 48968,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/id.pak",
+            "MD5": "bceb8b759aae3bec1a29b872993076b2",
+            "path": "MCEFLocales/id.pak"
+          }
+        },
+        {
+          "id": "it.pak",
+          "name": "it.pak",
+          "type": "File",
+          "artifact": {
+            "size": 53890,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/it.pak",
+            "MD5": "ea3bf6d5a401b6f42377e5cf22b876df",
+            "path": "MCEFLocales/it.pak"
+          }
+        },
+        {
+          "id": "ja.pak",
+          "name": "ja.pak",
+          "type": "File",
+          "artifact": {
+            "size": 65231,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ja.pak",
+            "MD5": "7d532da2351cd70f4771bbf6050a2acc",
+            "path": "MCEFLocales/ja.pak"
+          }
+        },
+        {
+          "id": "kn.pak",
+          "name": "kn.pak",
+          "type": "File",
+          "artifact": {
+            "size": 123630,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/kn.pak",
+            "MD5": "7b02a1c9f03587f89cd41c3b6560496c",
+            "path": "MCEFLocales/kn.pak"
+          }
+        },
+        {
+          "id": "ko.pak",
+          "name": "ko.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55660,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ko.pak",
+            "MD5": "93b8d8ac75639f64929aac77c2f3af44",
+            "path": "MCEFLocales/ko.pak"
+          }
+        },
+        {
+          "id": "lt.pak",
+          "name": "lt.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55901,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/lt.pak",
+            "MD5": "acc7d2d97cbcb3817f9d26931b8239c7",
+            "path": "MCEFLocales/lt.pak"
+          }
+        },
+        {
+          "id": "lv.pak",
+          "name": "lv.pak",
+          "type": "File",
+          "artifact": {
+            "size": 56886,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/lv.pak",
+            "MD5": "896cc0286cd7a08510faa7070cddfa61",
+            "path": "MCEFLocales/lv.pak"
+          }
+        },
+        {
+          "id": "ml.pak",
+          "name": "ml.pak",
+          "type": "File",
+          "artifact": {
+            "size": 134264,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ml.pak",
+            "MD5": "ec5715b2d74f515f99b529d024055b87",
+            "path": "MCEFLocales/ml.pak"
+          }
+        },
+        {
+          "id": "mr.pak",
+          "name": "mr.pak",
+          "type": "File",
+          "artifact": {
+            "size": 110576,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/mr.pak",
+            "MD5": "7e9b5eabec1b16624cff34f6990125bd",
+            "path": "MCEFLocales/mr.pak"
+          }
+        },
+        {
+          "id": "ms.pak",
+          "name": "ms.pak",
+          "type": "File",
+          "artifact": {
+            "size": 49935,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ms.pak",
+            "MD5": "93d70cd5a6625aac119046abe1241c6d",
+            "path": "MCEFLocales/ms.pak"
+          }
+        },
+        {
+          "id": "nb.pak",
+          "name": "nb.pak",
+          "type": "File",
+          "artifact": {
+            "size": 50043,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/nb.pak",
+            "MD5": "a8ac34ba96f4680dc034cbde9ecbe477",
+            "path": "MCEFLocales/nb.pak"
+          }
+        },
+        {
+          "id": "nl.pak",
+          "name": "nl.pak",
+          "type": "File",
+          "artifact": {
+            "size": 52308,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/nl.pak",
+            "MD5": "4594a1bd1fdddf6ab9b1466890318a89",
+            "path": "MCEFLocales/nl.pak"
+          }
+        },
+        {
+          "id": "pl.pak",
+          "name": "pl.pak",
+          "type": "File",
+          "artifact": {
+            "size": 54721,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/pl.pak",
+            "MD5": "2bf50847cf809b9c51a5ff947c09a445",
+            "path": "MCEFLocales/pl.pak"
+          }
+        },
+        {
+          "id": "pt-BR.pak",
+          "name": "pt-BR.pak",
+          "type": "File",
+          "artifact": {
+            "size": 54142,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/pt-BR.pak",
+            "MD5": "ad6eb0e5d1dbaf2ed6ef05a132697183",
+            "path": "MCEFLocales/pt-BR.pak"
+          }
+        },
+        {
+          "id": "pt-PT.pak",
+          "name": "pt-PT.pak",
+          "type": "File",
+          "artifact": {
+            "size": 53929,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/pt-PT.pak",
+            "MD5": "bbccf0b12af44e4b4c23d27b8c22dd7c",
+            "path": "MCEFLocales/pt-PT.pak"
+          }
+        },
+        {
+          "id": "ro.pak",
+          "name": "ro.pak",
+          "type": "File",
+          "artifact": {
+            "size": 55629,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ro.pak",
+            "MD5": "6ce3d64ee891f3dbad5d5f7d8008ef06",
+            "path": "MCEFLocales/ro.pak"
+          }
+        },
+        {
+          "id": "ru.pak",
+          "name": "ru.pak",
+          "type": "File",
+          "artifact": {
+            "size": 84306,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ru.pak",
+            "MD5": "9681a482980bba86770615e38361935f",
+            "path": "MCEFLocales/ru.pak"
+          }
+        },
+        {
+          "id": "sk.pak",
+          "name": "sk.pak",
+          "type": "File",
+          "artifact": {
+            "size": 56091,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/sk.pak",
+            "MD5": "218e8cd3c6149374282561d42308d3d0",
+            "path": "MCEFLocales/sk.pak"
+          }
+        },
+        {
+          "id": "sl.pak",
+          "name": "sl.pak",
+          "type": "File",
+          "artifact": {
+            "size": 52427,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/sl.pak",
+            "MD5": "dcc87f0d24bb5970530d84af8446d76f",
+            "path": "MCEFLocales/sl.pak"
+          }
+        },
+        {
+          "id": "sr.pak",
+          "name": "sr.pak",
+          "type": "File",
+          "artifact": {
+            "size": 82361,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/sr.pak",
+            "MD5": "87c0dd427deed2dafcc50173b30a705b",
+            "path": "MCEFLocales/sr.pak"
+          }
+        },
+        {
+          "id": "sv.pak",
+          "name": "sv.pak",
+          "type": "File",
+          "artifact": {
+            "size": 49750,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/sv.pak",
+            "MD5": "5081d56b74d71d615a1f0dc5c9af884f",
+            "path": "MCEFLocales/sv.pak"
+          }
+        },
+        {
+          "id": "sw.pak",
+          "name": "sw.pak",
+          "type": "File",
+          "artifact": {
+            "size": 49884,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/sw.pak",
+            "MD5": "b4ca9ebcfc838794c25c485f328004da",
+            "path": "MCEFLocales/sw.pak"
+          }
+        },
+        {
+          "id": "ta.pak",
+          "name": "ta.pak",
+          "type": "File",
+          "artifact": {
+            "size": 127484,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/ta.pak",
+            "MD5": "52ec8d56da208e6449eced6de7029b76",
+            "path": "MCEFLocales/ta.pak"
+          }
+        },
+        {
+          "id": "te.pak",
+          "name": "te.pak",
+          "type": "File",
+          "artifact": {
+            "size": 117722,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/te.pak",
+            "MD5": "b8274a899c3ac59ad2514c5bd30bd8c8",
+            "path": "MCEFLocales/te.pak"
+          }
+        },
+        {
+          "id": "th.pak",
+          "name": "th.pak",
+          "type": "File",
+          "artifact": {
+            "size": 104890,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/th.pak",
+            "MD5": "5b52bbb5899a40ccf7d96dba4deff9e3",
+            "path": "MCEFLocales/th.pak"
+          }
+        },
+        {
+          "id": "tr.pak",
+          "name": "tr.pak",
+          "type": "File",
+          "artifact": {
+            "size": 52673,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/tr.pak",
+            "MD5": "ecd1a1952282f6eb711b53cdfbda57eb",
+            "path": "MCEFLocales/tr.pak"
+          }
+        },
+        {
+          "id": "uk.pak",
+          "name": "uk.pak",
+          "type": "File",
+          "artifact": {
+            "size": 87212,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/uk.pak",
+            "MD5": "40b3984ba1c1837a354128aacaea14d0",
+            "path": "MCEFLocales/uk.pak"
+          }
+        },
+        {
+          "id": "vi.pak",
+          "name": "vi.pak",
+          "type": "File",
+          "artifact": {
+            "size": 60615,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/vi.pak",
+            "MD5": "8b4b49f35285b2047de08b604cb6532c",
+            "path": "MCEFLocales/vi.pak"
+          }
+        },
+        {
+          "id": "zh-CN.pak",
+          "name": "zh-CN.pak",
+          "type": "File",
+          "artifact": {
+            "size": 45082,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/zh-CN.pak",
+            "MD5": "f6755820fc8e745291921dbf5d5301da",
+            "path": "MCEFLocales/zh-CN.pak"
+          }
+        },
+        {
+          "id": "zh-TW.pak",
+          "name": "zh-TW.pak",
+          "type": "File",
+          "artifact": {
+            "size": 45661,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/MCEFLocales/zh-TW.pak",
+            "MD5": "253b76d8c8974c734c5a60a1e23d8a8d",
+            "path": "MCEFLocales/zh-TW.pak"
+          }
+        },
+        {
           "id": "ambience.properties",
           "name": "ambience.properties",
           "type": "File",
@@ -508,6 +1135,490 @@
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/ambience_music/music/wood.mp3",
             "MD5": "e276b9aba31cce3ff46f9afc5858ec84",
             "path": "ambience_music/music/wood.mp3"
+          }
+        },
+        {
+          "id": "palettes.json",
+          "name": "palettes.json",
+          "type": "File",
+          "artifact": {
+            "size": 4370,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/palettes.json",
+            "MD5": "dad1f2d0c4b3a8aff712695ec139f47b",
+            "path": "armourers_workshop/palettes.json"
+          }
+        },
+        {
+          "id": "Angel Wings.armour",
+          "name": "Angel Wings.armour",
+          "type": "File",
+          "artifact": {
+            "size": 32682,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Angel%20Wings.armour",
+            "MD5": "6683308691cff30e04f0b53477121c40",
+            "path": "armourers_workshop/skin-library/official/Angel Wings.armour"
+          }
+        },
+        {
+          "id": "Arbalest.armour",
+          "name": "Arbalest.armour",
+          "type": "File",
+          "artifact": {
+            "size": 11632,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Arbalest.armour",
+            "MD5": "08e16216ceabccdb833a102497a21a6c",
+            "path": "armourers_workshop/skin-library/official/Arbalest.armour"
+          }
+        },
+        {
+          "id": "Arrow.armour",
+          "name": "Arrow.armour",
+          "type": "File",
+          "artifact": {
+            "size": 578,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Arrow.armour",
+            "MD5": "c72638faa5e03d541db47f460976ba26",
+            "path": "armourers_workshop/skin-library/official/Arrow.armour"
+          }
+        },
+        {
+          "id": "Barrel.armour",
+          "name": "Barrel.armour",
+          "type": "File",
+          "artifact": {
+            "size": 20621,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Barrel.armour",
+            "MD5": "2ec747d5b776d331dd0d2a178fdad17a",
+            "path": "armourers_workshop/skin-library/official/Barrel.armour"
+          }
+        },
+        {
+          "id": "Bat Wings.armour",
+          "name": "Bat Wings.armour",
+          "type": "File",
+          "artifact": {
+            "size": 15149,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Bat%20Wings.armour",
+            "MD5": "eb7bc548d3c5fa5f2afab9f53d5dc4cf",
+            "path": "armourers_workshop/skin-library/official/Bat Wings.armour"
+          }
+        },
+        {
+          "id": "Butterfly Wings.armour",
+          "name": "Butterfly Wings.armour",
+          "type": "File",
+          "artifact": {
+            "size": 10793,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Butterfly%20Wings.armour",
+            "MD5": "9f65140785f6874db920b7f95c3e93c7",
+            "path": "armourers_workshop/skin-library/official/Butterfly Wings.armour"
+          }
+        },
+        {
+          "id": "Chessboard.armour",
+          "name": "Chessboard.armour",
+          "type": "File",
+          "artifact": {
+            "size": 2277,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Chessboard.armour",
+            "MD5": "1c8774f268c856cc7581617002121c95",
+            "path": "armourers_workshop/skin-library/official/Chessboard.armour"
+          }
+        },
+        {
+          "id": "Dress Shoes.armour",
+          "name": "Dress Shoes.armour",
+          "type": "File",
+          "artifact": {
+            "size": 8754,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Dress%20Shoes.armour",
+            "MD5": "707e0f8751aa2c65f6fd037c59e6e464",
+            "path": "armourers_workshop/skin-library/official/Dress Shoes.armour"
+          }
+        },
+        {
+          "id": "Dress Skirt.armour",
+          "name": "Dress Skirt.armour",
+          "type": "File",
+          "artifact": {
+            "size": 11629,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Dress%20Skirt.armour",
+            "MD5": "17c424f8d6be8a0d2028c5e82a92f09b",
+            "path": "armourers_workshop/skin-library/official/Dress Skirt.armour"
+          }
+        },
+        {
+          "id": "Dress Top.armour",
+          "name": "Dress Top.armour",
+          "type": "File",
+          "artifact": {
+            "size": 8238,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Dress%20Top.armour",
+            "MD5": "c7a9d4c11c74a5f2a8f6b7b78fdb7c5a",
+            "path": "armourers_workshop/skin-library/official/Dress Top.armour"
+          }
+        },
+        {
+          "id": "Evil Wings.armour",
+          "name": "Evil Wings.armour",
+          "type": "File",
+          "artifact": {
+            "size": 33969,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Evil%20Wings.armour",
+            "MD5": "7219443edd044e0c55180705e162eac0",
+            "path": "armourers_workshop/skin-library/official/Evil Wings.armour"
+          }
+        },
+        {
+          "id": "Fez.armour",
+          "name": "Fez.armour",
+          "type": "File",
+          "artifact": {
+            "size": 404,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Fez.armour",
+            "MD5": "9ce76534bd28a640c248010aa498d95a",
+            "path": "armourers_workshop/skin-library/official/Fez.armour"
+          }
+        },
+        {
+          "id": "Fox Ears.armour",
+          "name": "Fox Ears.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1697,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Fox%20Ears.armour",
+            "MD5": "c5773c38a5ec671692f630fc49216299",
+            "path": "armourers_workshop/skin-library/official/Fox Ears.armour"
+          }
+        },
+        {
+          "id": "Glass Chair.armour",
+          "name": "Glass Chair.armour",
+          "type": "File",
+          "artifact": {
+            "size": 5174,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Glass%20Chair.armour",
+            "MD5": "dc76b048d586839007f02d66d4dcac8a",
+            "path": "armourers_workshop/skin-library/official/Glass Chair.armour"
+          }
+        },
+        {
+          "id": "Glass Table.armour",
+          "name": "Glass Table.armour",
+          "type": "File",
+          "artifact": {
+            "size": 4558,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Glass%20Table.armour",
+            "MD5": "e8ee44b36801b787ffdc9bf9d48f3bc3",
+            "path": "armourers_workshop/skin-library/official/Glass Table.armour"
+          }
+        },
+        {
+          "id": "Halo.armour",
+          "name": "Halo.armour",
+          "type": "File",
+          "artifact": {
+            "size": 741,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Halo.armour",
+            "MD5": "0d35e94999c180e81436cb3f836913b8",
+            "path": "armourers_workshop/skin-library/official/Halo.armour"
+          }
+        },
+        {
+          "id": "Head Bow Left.armour",
+          "name": "Head Bow Left.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1310,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Head%20Bow%20Left.armour",
+            "MD5": "19e21795c9441eae11b7101b0a32d79c",
+            "path": "armourers_workshop/skin-library/official/Head Bow Left.armour"
+          }
+        },
+        {
+          "id": "Head Bow Right.armour",
+          "name": "Head Bow Right.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1311,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Head%20Bow%20Right.armour",
+            "MD5": "c25ba86e141b6882614079a517e7019f",
+            "path": "armourers_workshop/skin-library/official/Head Bow Right.armour"
+          }
+        },
+        {
+          "id": "Lightsaber (Dual).armour",
+          "name": "Lightsaber (Dual).armour",
+          "type": "File",
+          "artifact": {
+            "size": 4564,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Lightsaber%20(Dual).armour",
+            "MD5": "6cb08b319d586afc6c81cf708e44534e",
+            "path": "armourers_workshop/skin-library/official/Lightsaber (Dual).armour"
+          }
+        },
+        {
+          "id": "Lightsaber.armour",
+          "name": "Lightsaber.armour",
+          "type": "File",
+          "artifact": {
+            "size": 2653,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Lightsaber.armour",
+            "MD5": "9eb1a71c7fb4a3417573bf5602448639",
+            "path": "armourers_workshop/skin-library/official/Lightsaber.armour"
+          }
+        },
+        {
+          "id": "Madoka's Head Bows.armour",
+          "name": "Madoka's Head Bows.armour",
+          "type": "File",
+          "artifact": {
+            "size": 643,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Madoka%27s%20Head%20Bows.armour",
+            "MD5": "88ce9a4970b1f1a57ac7c14775af374a",
+            "path": "armourers_workshop/skin-library/official/Madoka's Head Bows.armour"
+          }
+        },
+        {
+          "id": "Madoka's Shoes.armour",
+          "name": "Madoka's Shoes.armour",
+          "type": "File",
+          "artifact": {
+            "size": 4821,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Madoka%27s%20Shoes.armour",
+            "MD5": "c11bfbf03f06110c90a4afb750603336",
+            "path": "armourers_workshop/skin-library/official/Madoka's Shoes.armour"
+          }
+        },
+        {
+          "id": "Madoka's Skirt.armour",
+          "name": "Madoka's Skirt.armour",
+          "type": "File",
+          "artifact": {
+            "size": 14929,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Madoka%27s%20Skirt.armour",
+            "MD5": "b2107dcbd6a1b49912b825b5a665845d",
+            "path": "armourers_workshop/skin-library/official/Madoka's Skirt.armour"
+          }
+        },
+        {
+          "id": "Madoka's Top.armour",
+          "name": "Madoka's Top.armour",
+          "type": "File",
+          "artifact": {
+            "size": 19354,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Madoka%27s%20Top.armour",
+            "MD5": "1fe92a58c68e85b79b22fca2934581ee",
+            "path": "armourers_workshop/skin-library/official/Madoka's Top.armour"
+          }
+        },
+        {
+          "id": "Pika Hood.armour",
+          "name": "Pika Hood.armour",
+          "type": "File",
+          "artifact": {
+            "size": 10103,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Pika%20Hood.armour",
+            "MD5": "bdac12785d6097a9be60d4f719dec846",
+            "path": "armourers_workshop/skin-library/official/Pika Hood.armour"
+          }
+        },
+        {
+          "id": "Pika Pants.armour",
+          "name": "Pika Pants.armour",
+          "type": "File",
+          "artifact": {
+            "size": 8180,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Pika%20Pants.armour",
+            "MD5": "b5d9a27c40b7dccf2b6d16d3760877dd",
+            "path": "armourers_workshop/skin-library/official/Pika Pants.armour"
+          }
+        },
+        {
+          "id": "Pika Paws.armour",
+          "name": "Pika Paws.armour",
+          "type": "File",
+          "artifact": {
+            "size": 5493,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Pika%20Paws.armour",
+            "MD5": "20a7061631fa191cec103642ff4c8694",
+            "path": "armourers_workshop/skin-library/official/Pika Paws.armour"
+          }
+        },
+        {
+          "id": "Pika T.armour",
+          "name": "Pika T.armour",
+          "type": "File",
+          "artifact": {
+            "size": 20613,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Pika%20T.armour",
+            "MD5": "c1e9438d3775d27a0a891b794c677b3e",
+            "path": "armourers_workshop/skin-library/official/Pika T.armour"
+          }
+        },
+        {
+          "id": "Robot Key.armour",
+          "name": "Robot Key.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1532,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Robot%20Key.armour",
+            "MD5": "88d43061c67d860df8932e0b9b8f7b3e",
+            "path": "armourers_workshop/skin-library/official/Robot Key.armour"
+          }
+        },
+        {
+          "id": "Sakura's Cat Boots.armour",
+          "name": "Sakura's Cat Boots.armour",
+          "type": "File",
+          "artifact": {
+            "size": 8073,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Cat%20Boots.armour",
+            "MD5": "4b4f8c6fe1cfce998ba842aeb0179990",
+            "path": "armourers_workshop/skin-library/official/Sakura's Cat Boots.armour"
+          }
+        },
+        {
+          "id": "Sakura's Cat Chest.armour",
+          "name": "Sakura's Cat Chest.armour",
+          "type": "File",
+          "artifact": {
+            "size": 21292,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Cat%20Chest.armour",
+            "MD5": "1d7731b74e6c5c707d9db921b10b3765",
+            "path": "armourers_workshop/skin-library/official/Sakura's Cat Chest.armour"
+          }
+        },
+        {
+          "id": "Sakura's Cat Ears.armour",
+          "name": "Sakura's Cat Ears.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1650,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Cat%20Ears.armour",
+            "MD5": "b6c8f027ab8e36861e1bb206085c53f8",
+            "path": "armourers_workshop/skin-library/official/Sakura's Cat Ears.armour"
+          }
+        },
+        {
+          "id": "Sakura's Cat Skirt.armour",
+          "name": "Sakura's Cat Skirt.armour",
+          "type": "File",
+          "artifact": {
+            "size": 29185,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Cat%20Skirt.armour",
+            "MD5": "77240a5372444bd520551a7278243742",
+            "path": "armourers_workshop/skin-library/official/Sakura's Cat Skirt.armour"
+          }
+        },
+        {
+          "id": "Sakura's Chest.armour",
+          "name": "Sakura's Chest.armour",
+          "type": "File",
+          "artifact": {
+            "size": 5807,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Chest.armour",
+            "MD5": "251cf778744aa13d60901c306f6b1d04",
+            "path": "armourers_workshop/skin-library/official/Sakura's Chest.armour"
+          }
+        },
+        {
+          "id": "Sakura's Shoes.armour",
+          "name": "Sakura's Shoes.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1386,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Shoes.armour",
+            "MD5": "066021173c68c7f704449926af010bd9",
+            "path": "armourers_workshop/skin-library/official/Sakura's Shoes.armour"
+          }
+        },
+        {
+          "id": "Sakura's Skirt.armour",
+          "name": "Sakura's Skirt.armour",
+          "type": "File",
+          "artifact": {
+            "size": 24641,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Sakura%27s%20Skirt.armour",
+            "MD5": "ad8710b1766f158f05c44be42109d3de",
+            "path": "armourers_workshop/skin-library/official/Sakura's Skirt.armour"
+          }
+        },
+        {
+          "id": "Scythe.armour",
+          "name": "Scythe.armour",
+          "type": "File",
+          "artifact": {
+            "size": 1725,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Scythe.armour",
+            "MD5": "4ab230d33eee272bba62ac0c0b35670d",
+            "path": "armourers_workshop/skin-library/official/Scythe.armour"
+          }
+        },
+        {
+          "id": "Viking Helmet (Blood).armour",
+          "name": "Viking Helmet (Blood).armour",
+          "type": "File",
+          "artifact": {
+            "size": 9606,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Viking%20Helmet%20(Blood).armour",
+            "MD5": "0b5d9dc319005fdb2b609001e7c0c5ab",
+            "path": "armourers_workshop/skin-library/official/Viking Helmet (Blood).armour"
+          }
+        },
+        {
+          "id": "Viking Helmet.armour",
+          "name": "Viking Helmet.armour",
+          "type": "File",
+          "artifact": {
+            "size": 9374,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Viking%20Helmet.armour",
+            "MD5": "f005f90f0f9e11f133871b0496cf5427",
+            "path": "armourers_workshop/skin-library/official/Viking Helmet.armour"
+          }
+        },
+        {
+          "id": "Witch's Boots.armour",
+          "name": "Witch's Boots.armour",
+          "type": "File",
+          "artifact": {
+            "size": 5156,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Witch%27s%20Boots.armour",
+            "MD5": "cee58baebf237548f680a960a2301fb0",
+            "path": "armourers_workshop/skin-library/official/Witch's Boots.armour"
+          }
+        },
+        {
+          "id": "Witch's Hat.armour",
+          "name": "Witch's Hat.armour",
+          "type": "File",
+          "artifact": {
+            "size": 7580,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Witch%27s%20Hat.armour",
+            "MD5": "b3b48348fd9d38007bf32cc61fa0b63b",
+            "path": "armourers_workshop/skin-library/official/Witch's Hat.armour"
+          }
+        },
+        {
+          "id": "Witch's Robes.armour",
+          "name": "Witch's Robes.armour",
+          "type": "File",
+          "artifact": {
+            "size": 19411,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Witch%27s%20Robes.armour",
+            "MD5": "7febe36de7de82bb0407e83001cba8ef",
+            "path": "armourers_workshop/skin-library/official/Witch's Robes.armour"
+          }
+        },
+        {
+          "id": "Witch's Skirt.armour",
+          "name": "Witch's Skirt.armour",
+          "type": "File",
+          "artifact": {
+            "size": 15087,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/armourers_workshop/skin-library/official/Witch%27s%20Skirt.armour",
+            "MD5": "60f1b577c61067e09b379cde1b761b8b",
+            "path": "armourers_workshop/skin-library/official/Witch's Skirt.armour"
           }
         },
         {
@@ -8904,6 +10015,1051 @@
           }
         },
         {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 1871,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.core.config",
+            "MD5": "13a0af3d1b3197e56ed9216f9310f064",
+            "path": "journeymap/config/5.5/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 773,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.fullmap.config",
+            "MD5": "a9967a153d11eb29e20ac886e1ba2f46",
+            "path": "journeymap/config/5.5/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.minimap.config",
+            "MD5": "ca73d582d6be84ddabb1746d77a4b609",
+            "path": "journeymap/config/5.5/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 1256,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.minimap2.config",
+            "MD5": "7c8e6788fcb8a5ec26ae6579c34ba445",
+            "path": "journeymap/config/5.5/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.topo.config",
+          "name": "journeymap.topo.config",
+          "type": "File",
+          "artifact": {
+            "size": 1035,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.topo.config",
+            "MD5": "6016a719cf5a4f4a0f68d90c757e6e25",
+            "path": "journeymap/config/5.5/journeymap.topo.config"
+          }
+        },
+        {
+          "id": "journeymap.waypoint.config",
+          "name": "journeymap.waypoint.config",
+          "type": "File",
+          "artifact": {
+            "size": 794,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.waypoint.config",
+            "MD5": "ade378dcd99df051596e4cd7c85b0472",
+            "path": "journeymap/config/5.5/journeymap.waypoint.config"
+          }
+        },
+        {
+          "id": "journeymap.webmap.config",
+          "name": "journeymap.webmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 467,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/config/5.5/journeymap.webmap.config",
+            "MD5": "04fef550757529a17e584a43dc28123c",
+            "path": "journeymap/config/5.5/journeymap.webmap.config"
+          }
+        },
+        {
+          "id": "0,-1.png",
+          "name": "0,-1.png",
+          "type": "File",
+          "artifact": {
+            "size": 4886,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/data/mp/Minecraft~Server/DIM0/9/0,-1.png",
+            "MD5": "7377e8769489e4ca4be091ee36ceb836",
+            "path": "journeymap/data/mp/Minecraft~Server/DIM0/9/0,-1.png"
+          }
+        },
+        {
+          "id": "0,0.png",
+          "name": "0,0.png",
+          "type": "File",
+          "artifact": {
+            "size": 1723,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/data/mp/Minecraft~Server/DIM0/9/0,0.png",
+            "MD5": "dced41f02d08b8b2d0407e21e3df01d9",
+            "path": "journeymap/data/mp/Minecraft~Server/DIM0/9/0,0.png"
+          }
+        },
+        {
+          "id": "0,-1.png",
+          "name": "0,-1.png",
+          "type": "File",
+          "artifact": {
+            "size": 9609,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/data/mp/Minecraft~Server/DIM0/topo/0,-1.png",
+            "MD5": "69541aaa7ab7d0d78ecdcd64d699942e",
+            "path": "journeymap/data/mp/Minecraft~Server/DIM0/topo/0,-1.png"
+          }
+        },
+        {
+          "id": "0,0.png",
+          "name": "0,0.png",
+          "type": "File",
+          "artifact": {
+            "size": 7167,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/data/mp/Minecraft~Server/DIM0/topo/0,0.png",
+            "MD5": "e35688cc2cd77b3a7cae81e19e6b64bf",
+            "path": "journeymap/data/mp/Minecraft~Server/DIM0/topo/0,0.png"
+          }
+        },
+        {
+          "id": "default.theme.config",
+          "name": "default.theme.config",
+          "type": "File",
+          "artifact": {
+            "size": 83,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/default.theme.config",
+            "MD5": "9a651dda4758f8a349cc4017f2d60da6",
+            "path": "journeymap/icon/theme/default.theme.config"
+          }
+        },
+        {
+          "id": "DesertTemple.theme2.json",
+          "name": "DesertTemple.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8925,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/DesertTemple.theme2.json",
+            "MD5": "ef97d6d4a3c3a745a5a819f81617a3a4",
+            "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json"
+          }
+        },
+        {
+          "id": "EndCity.theme2.json",
+          "name": "EndCity.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8920,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/EndCity.theme2.json",
+            "MD5": "8bd570528afe51dad02dcd97eaa16098",
+            "path": "journeymap/icon/theme/flat/EndCity.theme2.json"
+          }
+        },
+        {
+          "id": "ForestMansion.theme2.json",
+          "name": "ForestMansion.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8926,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/ForestMansion.theme2.json",
+            "MD5": "c0fb578a459a623baf538026edd27422",
+            "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json"
+          }
+        },
+        {
+          "id": "NetherFortress.theme2.json",
+          "name": "NetherFortress.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8927,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/NetherFortress.theme2.json",
+            "MD5": "17e698f2232e0839fc2ea8cf0b2bcfd4",
+            "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json"
+          }
+        },
+        {
+          "id": "OceanMonument.theme2.json",
+          "name": "OceanMonument.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8926,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/OceanMonument.theme2.json",
+            "MD5": "3320c6ddb02866175d0b13f98e5ab7ff",
+            "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json"
+          }
+        },
+        {
+          "id": "Purist.theme2.json",
+          "name": "Purist.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8905,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/Purist.theme2.json",
+            "MD5": "06e085caa7fb5a393ad28d239da74eb7",
+            "path": "journeymap/icon/theme/flat/Purist.theme2.json"
+          }
+        },
+        {
+          "id": "Stronghold.theme2.json",
+          "name": "Stronghold.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8923,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/Stronghold.theme2.json",
+            "MD5": "875fcfd96f8371c6e3a0fcd7fca994df",
+            "path": "journeymap/icon/theme/flat/Stronghold.theme2.json"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/htoolbar_begin.png",
+            "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/htoolbar_end.png",
+            "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/htoolbar_inner.png",
+            "MD5": "569e70e6e0c65135a9b6b6815b84b972",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+            "MD5": "82b8b457e484046e479974e26ac2fa41",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/vtoolbar_end.png",
+            "MD5": "82b8b457e484046e479974e26ac2fa41",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+            "MD5": "569e70e6e0c65135a9b6b6815b84b972",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "flat_button_disabled.png",
+          "name": "flat_button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_button_disabled.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png"
+          }
+        },
+        {
+          "id": "flat_button_hover.png",
+          "name": "flat_button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_button_hover.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_hover.png"
+          }
+        },
+        {
+          "id": "flat_button_off.png",
+          "name": "flat_button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_button_off.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_off.png"
+          }
+        },
+        {
+          "id": "flat_button_on.png",
+          "name": "flat_button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_button_on.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_on.png"
+          }
+        },
+        {
+          "id": "flat_toggle_disabled.png",
+          "name": "flat_toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 667,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+            "MD5": "791d87e69e610e569353544f3687d3d0",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
+          }
+        },
+        {
+          "id": "flat_toggle_hover.png",
+          "name": "flat_toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 611,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+            "MD5": "f746c00ea1178ba9768a024dd79972ec",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png"
+          }
+        },
+        {
+          "id": "flat_toggle_off.png",
+          "name": "flat_toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 667,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_toggle_off.png",
+            "MD5": "791d87e69e610e569353544f3687d3d0",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png"
+          }
+        },
+        {
+          "id": "flat_toggle_on.png",
+          "name": "flat_toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 611,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/control/flat_toggle_on.png",
+            "MD5": "32333489c3af7acb084fc7d2e1d6b835",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/flat/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1371,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/actions.png",
+            "MD5": "0ef11997aba83ffb45df8ef8fa5a7aac",
+            "path": "journeymap/icon/theme/flat/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 1101,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/alert.png",
+            "MD5": "afaa1f1f124c7446ea79d69718e2e9a9",
+            "path": "journeymap/icon/theme/flat/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 834,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/animals.png",
+            "MD5": "05d86dc96f528fd3f644384f82f4b30f",
+            "path": "journeymap/icon/theme/flat/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 591,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/automap.png",
+            "MD5": "457dcb561ef49473e6242f8fabf1f0f1",
+            "path": "journeymap/icon/theme/flat/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/flat/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/flat/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 1081,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/caves.png",
+            "MD5": "7da04feb4cefb09e18cc3a095a083558",
+            "path": "journeymap/icon/theme/flat/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1373,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/close.png",
+            "MD5": "e4455f2a047f784231056e104293c161",
+            "path": "journeymap/icon/theme/flat/icon/close.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1515,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/day.png",
+            "MD5": "4b394cdd9d548238442673032c56fa57",
+            "path": "journeymap/icon/theme/flat/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/flat/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/flat/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1274,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/follow.png",
+            "MD5": "1af8b8c5d19f250bebc0b8a331a4467d",
+            "path": "journeymap/icon/theme/flat/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 514,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/grid.png",
+            "MD5": "630458a6b626ae8c4661392e28327162",
+            "path": "journeymap/icon/theme/flat/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/keys.png",
+            "MD5": "48438ebd8464da96a7d0ed12d041cebe",
+            "path": "journeymap/icon/theme/flat/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1339,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/layers.png",
+            "MD5": "450ef573defd780e53aed8b422c20188",
+            "path": "journeymap/icon/theme/flat/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/monsters.png",
+            "MD5": "161f4b1825fe6aaa7e6c646e1df7c22d",
+            "path": "journeymap/icon/theme/flat/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 1035,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/night.png",
+            "MD5": "2c2e1ae5318cd9d3b566ebad983e641d",
+            "path": "journeymap/icon/theme/flat/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 644,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/options.png",
+            "MD5": "0b718c3c1ee9ee19d0dadae5f252535b",
+            "path": "journeymap/icon/theme/flat/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 827,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/pets.png",
+            "MD5": "ecff0a3a4cb9cc88eec4c65d83639d19",
+            "path": "journeymap/icon/theme/flat/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/players.png",
+            "MD5": "ff8899097b21d8744ed57065cf25a5b2",
+            "path": "journeymap/icon/theme/flat/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/flat/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/savemap.png",
+            "MD5": "be5bfbbeab34d292ddcef08f9d7383c8",
+            "path": "journeymap/icon/theme/flat/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/flat/icon/search.png"
+          }
+        },
+        {
+          "id": "server.png",
+          "name": "server.png",
+          "type": "File",
+          "artifact": {
+            "size": 3038,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/server.png",
+            "MD5": "b934f10174be355e0414ccea904b019b",
+            "path": "journeymap/icon/theme/flat/icon/server.png"
+          }
+        },
+        {
+          "id": "theme.png",
+          "name": "theme.png",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/theme.png",
+            "MD5": "4a4cbd1cba4e8606cbb7a8260fe3a2b2",
+            "path": "journeymap/icon/theme/flat/icon/theme.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/topo.png",
+            "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
+            "path": "journeymap/icon/theme/flat/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 393,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/villagers.png",
+            "MD5": "1d49a9009bbfee78f7e773a9d352d3a2",
+            "path": "journeymap/icon/theme/flat/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 1606,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/waypoints.png",
+            "MD5": "c7faaffc9c1ce8316f91bb934b19b5c7",
+            "path": "journeymap/icon/theme/flat/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1305,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/zoomin.png",
+            "MD5": "76e924ab75bab01b92d4c7bb97ac2625",
+            "path": "journeymap/icon/theme/flat/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1241,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/icon/zoomout.png",
+            "MD5": "d2e04e295c2f35c1f1c6801dc59dc440",
+            "path": "journeymap/icon/theme/flat/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 589,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+            "MD5": "cba29650354980f136db82cc52d55d89",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_mask_256.png",
+          "name": "flat_mask_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 7020,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+            "MD5": "4e3e20c86f375ae6d1b53f448835fdb8",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
+          }
+        },
+        {
+          "id": "flat_mask_512.png",
+          "name": "flat_mask_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 20438,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+            "MD5": "1e908326f7bddbb59634164c52b39265",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
+          }
+        },
+        {
+          "id": "flat_rim_256.png",
+          "name": "flat_rim_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 6751,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+            "MD5": "253e38c2aca245171819adc83e5d6950",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
+          }
+        },
+        {
+          "id": "flat_rim_512.png",
+          "name": "flat_rim_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 14309,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+            "MD5": "edc555a83f714efa5c12d03865112628",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
+          }
+        },
+        {
+          "id": "pur_compass_point.png",
+          "name": "pur_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 959,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+            "MD5": "b93f935ef1173b4ba48bd95133568b56",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
+          }
+        },
+        {
+          "id": "pur_mask_256.png",
+          "name": "pur_mask_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 2067,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+            "MD5": "9e3dd563a09eca2e7ce680aa0218d0e3",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
+          }
+        },
+        {
+          "id": "pur_mask_512.png",
+          "name": "pur_mask_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 10622,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+            "MD5": "2135a5f65419ee3fcd0d63a722ec0cfd",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
+          }
+        },
+        {
+          "id": "pur_rim_256.png",
+          "name": "pur_rim_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 15210,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+            "MD5": "8c28162acd291452f96b8962706545bb",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
+          }
+        },
+        {
+          "id": "pur_rim_512.png",
+          "name": "pur_rim_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 37803,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+            "MD5": "6c67ecd99a7cbc14838c437f3059d245",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
+          }
+        },
+        {
+          "id": "flat_bottom.png",
+          "name": "flat_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+            "MD5": "0dec683433cc1ed29578edbe447e0416",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
+          }
+        },
+        {
+          "id": "flat_bottomleft.png",
+          "name": "flat_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+            "MD5": "e0ef36459a92962091b3c2297ebd492b",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
+          }
+        },
+        {
+          "id": "flat_bottomright.png",
+          "name": "flat_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+            "MD5": "257056afd41430be6c6e017adbbec83b",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+            "MD5": "3e111929da1913b53355991ba69fdb9a",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_left.png",
+          "name": "flat_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_left.png",
+            "MD5": "4784fe7e5dcf7cc3629399b67b1626c3",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png"
+          }
+        },
+        {
+          "id": "flat_right.png",
+          "name": "flat_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_right.png",
+            "MD5": "f24bb1839602c9c4b507f36f03755f15",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png"
+          }
+        },
+        {
+          "id": "flat_top.png",
+          "name": "flat_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_top.png",
+            "MD5": "5d32ccf7b5cf96c557976d18f7b9f807",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png"
+          }
+        },
+        {
+          "id": "flat_topleft.png",
+          "name": "flat_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+            "MD5": "89dac45d101d30c5b68e8053c6882a0d",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
+          }
+        },
+        {
+          "id": "flat_topright.png",
+          "name": "flat_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+            "MD5": "f8771e145f8364e82ed7ce3ae79e4bda",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+            "MD5": "7ebab006d87fcbc1da28990b3f923989",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "pur_bottomleft.png",
+          "name": "pur_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+            "MD5": "ef8534a2f05d2c3106f0720e93eddb3f",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
+          }
+        },
+        {
+          "id": "pur_bottomright.png",
+          "name": "pur_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+            "MD5": "4b7003eba91d737295e1429d66b31156",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
+          }
+        },
+        {
+          "id": "pur_compass_point.png",
+          "name": "pur_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+            "MD5": "3e111929da1913b53355991ba69fdb9a",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
+          }
+        },
+        {
+          "id": "pur_left.png",
+          "name": "pur_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_left.png",
+            "MD5": "7c9ed0e45981a75dfe3f713c00c1acfb",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png"
+          }
+        },
+        {
+          "id": "pur_right.png",
+          "name": "pur_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_right.png",
+            "MD5": "4f353bcd3ffab12b1bd48705732a91dc",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png"
+          }
+        },
+        {
+          "id": "pur_top.png",
+          "name": "pur_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_top.png",
+            "MD5": "fe079179f72d2be13e42252336db233b",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png"
+          }
+        },
+        {
+          "id": "pur_topleft.png",
+          "name": "pur_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 205,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+            "MD5": "01e815c33e5bec079337e6cf7739511e",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
+          }
+        },
+        {
+          "id": "pur_topright.png",
+          "name": "pur_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+            "MD5": "e800293134c150236f70b7da30bd7169",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png"
+          }
+        },
+        {
+          "id": "journeymap.log",
+          "name": "journeymap.log",
+          "type": "File",
+          "artifact": {
+            "size": 6997,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/journeymap/journeymap.log",
+            "MD5": "6aa4bcd93a042118207d82c89701a5ac",
+            "path": "journeymap/journeymap.log"
+          }
+        },
+        {
+          "id": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+          "name": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+          "type": "File",
+          "artifact": {
+            "size": 88557,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/1.12.2/CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+            "MD5": "eb23a10c2d246cf65affeb59116c881e",
+            "path": "mods/1.12.2/CraftStudio-1.0.0.93-mc1.12-alpha.jar"
+          }
+        },
+        {
+          "id": "mcef-1.12.2-0.9-coremod.jar",
+          "name": "mcef-1.12.2-0.9-coremod.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6379,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/1.12.2/mcef-1.12.2-0.9-coremod.jar",
+            "MD5": "cfe85d3645ad3eb41f28b87ef4efbb0b",
+            "path": "mods/1.12.2/mcef-1.12.2-0.9-coremod.jar"
+          }
+        },
+        {
           "id": "AIImprovements-1.12-0.0.1b3.jar",
           "name": "AIImprovements-1.12-0.0.1b3.jar",
           "type": "File",
@@ -9011,17 +11167,6 @@
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/CookingForBlockheads_1.12.2-6.5.0.jar",
             "MD5": "f1067937f350aba63a80089093b66724",
             "path": "mods/CookingForBlockheads_1.12.2-6.5.0.jar"
-          }
-        },
-        {
-          "id": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
-          "name": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
-          "type": "File",
-          "artifact": {
-            "size": 88557,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/CraftStudio-1.0.0.93-mc1.12-alpha.jar",
-            "MD5": "eb23a10c2d246cf65affeb59116c881e",
-            "path": "mods/CraftStudio-1.0.0.93-mc1.12-alpha.jar"
           }
         },
         {
@@ -9575,17 +11720,6 @@
           }
         },
         {
-          "id": "mcef-1.12.2-0.9-coremod.jar",
-          "name": "mcef-1.12.2-0.9-coremod.jar",
-          "type": "File",
-          "artifact": {
-            "size": 6379,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/mcef-1.12.2-0.9-coremod.jar",
-            "MD5": "cfe85d3645ad3eb41f28b87ef4efbb0b",
-            "path": "mods/mcef-1.12.2-0.9-coremod.jar"
-          }
-        },
-        {
           "id": "mclib-2.2.2-1.12.2.jar",
           "name": "mclib-2.2.2-1.12.2.jar",
           "type": "File",
@@ -9594,6 +11728,215 @@
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/mclib-2.2.2-1.12.2.jar",
             "MD5": "f7e7ee41ad99b77915b673b8c791d188",
             "path": "mods/mclib-2.2.2-1.12.2.jar"
+          }
+        },
+        {
+          "id": "mcjtytools-0.0.21.jar",
+          "name": "mcjtytools-0.0.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 62381,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar",
+            "MD5": "75f57657a6a026aeb39d53067a1f1c0d",
+            "path": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar"
+          }
+        },
+        {
+          "id": "mcjtytools-0.0.21.jar.meta",
+          "name": "mcjtytools-0.0.21.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 77,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar.meta",
+            "MD5": "e3576a7b79aa8aa4e5e7dde444ee61df",
+            "path": "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar.meta"
+          }
+        },
+        {
+          "id": "drpcmblueprints-1.12.2-1.2.3.jar",
+          "name": "drpcmblueprints-1.12.2-1.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 81126,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar",
+            "MD5": "56663064526ccd1f66ec16505f89c60c",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar"
+          }
+        },
+        {
+          "id": "drpcmblueprints-1.12.2-1.2.3.jar.meta",
+          "name": "drpcmblueprints-1.12.2-1.2.3.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 7804,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar.meta",
+            "MD5": "65d39dde53f04f91cbb82ef184a11774",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmblueprints/1.12.2-1.2.3/drpcmblueprints-1.12.2-1.2.3.jar.meta"
+          }
+        },
+        {
+          "id": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+          "name": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+          "type": "File",
+          "artifact": {
+            "size": 266596,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar",
+            "MD5": "40196cabb4eb530eb1656230dc69bee1",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar"
+          }
+        },
+        {
+          "id": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+          "name": "drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 7118,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta",
+            "MD5": "1c4f92a29d9f1a022e19ecb739dad102",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.070253.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/maven-metadata.json",
+            "MD5": "b2d10085e8ca5b0affe2ab176fb5e4e1",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmguis/1.12.2-0.0.1-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+          "name": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+          "type": "File",
+          "artifact": {
+            "size": 181395,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar",
+            "MD5": "35dcd1ad1633a069d2ceee623f2198dc",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar"
+          }
+        },
+        {
+          "id": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+          "name": "drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 4247,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta",
+            "MD5": "3f0d769ba71cb075c3c7f51b93a908bf",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.061203.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/maven-metadata.json",
+            "MD5": "078bd749beca1d41e243d162fe886b0d",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmlocks/1.12.2-1.0.0-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+          "name": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+          "type": "File",
+          "artifact": {
+            "size": 94477,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar",
+            "MD5": "637cf12455851bf324435c5b261d272f",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar"
+          }
+        },
+        {
+          "id": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+          "name": "drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 11653,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta",
+            "MD5": "8a96d112d2b634869af618f322cdaa26",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.024036.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/maven-metadata.json",
+            "MD5": "3e2092395897f258a9f2a78b4ab7372d",
+            "path": "mods/memory_repo/net/dark_roleplay/core_modules/drpcmmaarg/1.12.2-0.10.0-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+          "name": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+          "type": "File",
+          "artifact": {
+            "size": 166706,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar",
+            "MD5": "a21d5da3da9e680ee03bd0b827752a7c",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+          "name": "drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 17743,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta",
+            "MD5": "2bdeedbc6d7e686c96beb918dfbeb9a0",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/drplibrary-1.12.2-0.1.2.4-SNAPSHOT-20181116.122433.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/maven-metadata.json",
+            "MD5": "8e26fc7ed9b054dc4e2c6a57f9a3c787",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.2.4-SNAPSHOT/maven-metadata.json"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+          "name": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+          "type": "File",
+          "artifact": {
+            "size": 172662,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar",
+            "MD5": "1ce46414d1a439fed61cb8f0a1ad7f72",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar"
+          }
+        },
+        {
+          "id": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+          "name": "drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 18046,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta",
+            "MD5": "7f5a3de1ed33cd5e0e492dbcbd84801a",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.104240.jar.meta"
+          }
+        },
+        {
+          "id": "maven-metadata.json",
+          "name": "maven-metadata.json",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/maven-metadata.json",
+            "MD5": "d8492c72ed2961f98e41b759942c1dbb",
+            "path": "mods/memory_repo/net/dark_roleplay/drplibrary/1.12.2-0.1.3-SNAPSHOT/maven-metadata.json"
           }
         },
         {
