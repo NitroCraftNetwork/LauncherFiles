@@ -1876,6 +1876,17 @@
             "MD5": "9f1742099c1f118c9bc04f0d8bee8d7f",
             "path": "resourcepacks/Tissous Zombie Pack 1.12.2.zip"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 12993,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/files/servers.dat",
+            "MD5": "1eda4a427acc857eba021c62908c48f9",
+            "path": "servers.dat"
+          }
         }
       ]
     }
