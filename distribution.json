@@ -574,6 +574,19 @@
           }
         },
         {
+          "id": "ichttt.mods:firstaid:1.6.16@jar",
+          "name": "First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 483850,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/firstaid-1.6.16.jar",
+            "MD5": "427648f14c3109ef2b209d2310e98ac8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.flansmod:flansmod:5.10.0@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
@@ -704,6 +717,19 @@
           }
         },
         {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.12.2-2.0.7.2@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80300509,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/lycanitesmobs-1.12.2-2.0.7.2.jar",
+            "MD5": "c7736c7b47d88b98abb27c1fb22b164b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "slimeknights.mantle:mantle:1.3.3.55@jar",
           "name": "Mantle",
           "type": "ForgeMod",
@@ -789,6 +815,19 @@
             "size": 9249012,
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/MusicCraft-3.2.3.jar",
             "MD5": "0bd51286ebb6827f21ac0775d71b3e85"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.zundrel:currency:4.0.1@jar",
+          "name": "Never Enough Currency",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155815,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Never-Enough-Currency-Mod-1.12.2.jar",
+            "MD5": "92f8c89c89f854aa73f3bf4fe8febeaf"
           },
           "required": {
             "value": false
