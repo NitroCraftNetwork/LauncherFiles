@@ -288,19 +288,6 @@
           }
         },
         {
-          "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
-          "name": "BetterFps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 155196,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/BetterFps-1.4.8.jar",
-            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "jds.bibliocraft:bibliocraft:2.4.5@jar",
           "name": "BiblioCraft",
           "type": "ForgeMod",
@@ -386,19 +373,6 @@
             "size": 16304269,
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Decocraft-2.6.2_1.12.2.jar",
             "MD5": "f1af752dd335560a3429242e361d15a4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.dark_roleplay.core:drpcore:1.12.2-0.4.7@jar",
-          "name": "Dark Roleplay Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1075472,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/drpcore-1.12.2-0.4.8.jar",
-            "MD5": "5425b06103cbce9ff1abddb6ad8ea5c9"
           },
           "required": {
             "value": false
@@ -613,32 +587,6 @@
           }
         },
         {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
-          "name": "MalisisCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
-          "name": "MalisisDoors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1741669,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/malisisdoors-1.12.2-7.3.0.jar",
-            "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "slimeknights.mantle:mantle:1.3.3.55@jar",
           "name": "Mantle",
           "type": "ForgeMod",
@@ -685,19 +633,6 @@
             "size": 2022531,
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/nashorn.jar",
             "MD5": "764ffae27a54c23e265ac7f41fdbfc55"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
-          "name": "OptiFine 1.12.2_HD_U_F5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2387431,
-            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5_MOD.jar",
-            "MD5": "ead0decc5d397a0c122546fd9edb1e5b"
           },
           "required": {
             "value": false
@@ -857,6 +792,36 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:BetterFps:1.4.8@jar",
+          "name": "BetterFps",
+          "type": "Library",
+          "artifact": {
+            "size": 155196,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/libraries/BetterFps-1.4.8.jar",
+            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.12.2_HD_U_F5_MOD:0.0.0@jar",
+          "name": "OptiFine_1.12.2_HD_U_F5_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 2387431,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/libraries/OptiFine_1.12.2_HD_U_F5_MOD.jar",
+            "MD5": "ead0decc5d397a0c122546fd9edb1e5b"
+          }
+        },
+        {
+          "id": "generated.library:drpcore:1.12.2-0.4.8@jar",
+          "name": "drpcore",
+          "type": "Library",
+          "artifact": {
+            "size": 1075472,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/libraries/drpcore-1.12.2-0.4.8.jar",
+            "MD5": "5425b06103cbce9ff1abddb6ad8ea5c9"
           }
         },
         {
