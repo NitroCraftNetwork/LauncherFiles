@@ -1,0 +1,12 @@
+{
+  "version": "0.10.2:beta:0",
+  "client": {
+    "enable_friendslist_key": true
+  },
+  "server": {
+    "disable_pvp_for_friends": false,
+    "friend_request_expire_time_seconds": 20,
+    "max_friends_amount": 20,
+    "max_ignored_amount": 20
+  }
+}

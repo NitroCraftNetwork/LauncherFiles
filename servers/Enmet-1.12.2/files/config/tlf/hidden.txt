@@ -1,0 +1,3 @@
+#List of Hidden Players
+nitrojamn:false
+gopvikeen:false

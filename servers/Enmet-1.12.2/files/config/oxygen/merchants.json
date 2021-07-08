@@ -1,0 +1,7 @@
+{
+  "version": "0.10.2:beta:0",
+  "server": {
+    "merchant_menu_operations_timeout_millis": 120000,
+    "allow_ingame_profiles_management": true
+  }
+}
