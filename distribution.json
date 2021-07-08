@@ -457,6 +457,19 @@
           }
         },
         {
+          "id": "com.leviathanstudio.craftstudio:craftstudioapi:1.0.0@jar",
+          "name": "CraftStudio API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88557,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+            "MD5": "eb23a10c2d246cf65affeb59116c881e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -737,6 +750,19 @@
             "size": 843486,
             "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/Mantle-1.12-1.3.3.55.jar",
             "MD5": "1026f5f8d3c4997831decd9023ca65a6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.montoyo.mcef.coremod:ShutdownPatcher:1.12.2-0.9-coremod@jar",
+          "name": "Mcef",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6379,
+            "url": "https://raw.githubusercontent.com/NitroCraftNetwork/LauncherFiles/master/servers/Enmet-1.12.2/forgemods/optionalon/mcef-1.12.2-0.9-coremod.jar",
+            "MD5": "cfe85d3645ad3eb41f28b87ef4efbb0b"
           },
           "required": {
             "value": false
